@@ -1,16 +1,18 @@
 # About
 
-Class for working with hexadecimal strings in MATLAB
+Utilities for working with hexadecimal strings in MATLAB
 
 # Installation
 
-1. Clone this repo into your MATLAB project, preferably in a “pkgs” directory, e.g., 
+1. Clone this repo into your MATLAB project, preferably in a “vendor” directory, e.g., 
 - project
-	- pkgs	
-		- matlab-hex
+	- vendor
+		- github	
+			- cnanders	
+				- matlab-hex
 	- file1.m
 	- file2.m
-2. Add the repo to the MATLAB path, e.g., `addpath('pkgs/matlab-hex');`
+2. Add the namespaced package to the MATLAB path, e.g., `addpath('vendor/github/cnanders/matlab-hex/pkg');`
 
 # Hungarian Notation
 
