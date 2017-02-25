@@ -6,7 +6,7 @@ Utilities for working with hexadecimal strings in MATLAB
 
 1. Clone this repo into your MATLAB project, preferably in a “vendor” directory. See [Recommended Project Structure](#project-structure)
 
-2. Add the namespaced package to the MATLAB path
+2. Add the namespaced package to the MATLAB path, e.g.
 
 ```
 addpath('vendor/github/cnanders/matlab-hex/pkg');
