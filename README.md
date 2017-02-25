@@ -16,6 +16,7 @@ addpath('vendor/github/cnanders/matlab-hex/pkg');
 
 This repo uses [MATLAB Hungarian notation](https://github.com/cnanders/matlab-hungarian) for variable names.  
 
+<a name="project-structure"></a>
 # Recommended Project Structure
 
 - project
