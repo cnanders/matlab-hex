@@ -38,6 +38,8 @@ classdef HexUtils
             c = sprintf('%02x', i8);            
         end
         
+        
+        
         % Convert a hex string to a binary string representation
         % @param {char 1xm} cHex - m-character hex string (big endian)
         % @param {int8 1x1} [i8Bits = m*4] - the number of bits in the output
